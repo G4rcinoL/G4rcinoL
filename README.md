@@ -13,7 +13,7 @@ Tenho conhecimentos em:
 - MySQL
 - jQuery
 - Bootstrap 5
-- IONIC
+- IONIC/Angular
 - WordPress
 - Slim Framework
 - Ajax
@@ -38,19 +38,26 @@ Sou **proativo, adaptável, organizado e comprometido** com os objetivos da equi
 
 ## Minhas Skills
 
-### **Aplicações e dados**
+### **Aplicações e Dados**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
 ![Node.JS](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=87CEFA)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=for-the-badge&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=for-the-badge&logo=ionic)
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=for-the-badge&logo=wordpress)
+![API](https://img.shields.io/badge/-API-333333?style=for-the-badge)
+![MVC](https://img.shields.io/badge/-MVC-333333?style=for-the-badge)
+![Slim Framework](https://img.shields.io/badge/-Slim_Framework-333333?style=for-the-badge)
+![Ajax](https://img.shields.io/badge/-Ajax-333333?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-Power_BI-333333?style=for-the-badge)
 
-### **Business Intelligence**
-![Power BI](https://img.shields.io/badge/Power%20BI-333333?style=for-the-badge&logo=power-bi&logoColor=F2C811)
 
 ### **Ferramentas de desenvolvimento**
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=vs-code&logoColor=007ACC)
 
 ## Contagem de Visitantes
 <div align="center">
