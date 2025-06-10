@@ -57,7 +57,7 @@ Sou **proativo, adaptável, organizado e comprometido** com os objetivos da equi
 
 
 ### **Ferramentas de desenvolvimento**
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=vs-code&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=vs-code&logoColor=007ACC)
 
 ## Contagem de Visitantes
 <div align="center">
