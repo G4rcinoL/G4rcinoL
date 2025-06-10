@@ -8,8 +8,15 @@
 Olá, meu nome é **Lucas Daniel**! Sou um profissional com experiência em **desenvolvimento web e suporte técnico**, atuando com **dedicação, criatividade e foco em inovação**.
 
 Tenho conhecimentos em:
-- **Linguagens e frameworks:** JavaScript, ES6, ES7, PHP 7, MySQL, jQuery, Bootstrap 4, IONIC, WordPress, API, MVC, Slim Framework, Ajax e desenvolvimento Full Stack.
-- **Business Intelligence:** Experiência com Power BI, aplicando soluções que geram valor e insights para a tomada de decisões.
+- JavaScript
+- PHP 8
+- MySQL
+- jQuery
+- Bootstrap 5
+- IONIC
+- WordPress
+- Slim Framework
+- Ajax
 
 Participei de projetos que envolveram:
 - **Criação de interfaces intuitivas**
